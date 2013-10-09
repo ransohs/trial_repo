@@ -9,3 +9,4 @@ hello from localbranch
 
 
 another conflict
+1 2 3
