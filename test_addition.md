@@ -8,7 +8,4 @@ ha
 hello from localbranch
 
 
-red green blue
-=======
-1 2 3
-
+another conflict
