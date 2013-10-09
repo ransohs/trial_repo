@@ -11,3 +11,5 @@ hello from localbranch
 another conflict
 
 11
+
+12
