@@ -6,3 +6,6 @@
 blah
 ha
 hello from localbranch
+
+
+another conflict
